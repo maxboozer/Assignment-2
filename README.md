@@ -26,3 +26,8 @@ a major setback in time for the researchers.
 4. 
 I plan to incorporate these solutions by carefully following the suggestions when performing my research. Using every one of these steps will not only help to 
 improve organization but also reduce issues that may occur later in research such as data that is nearly impossible to interpret and redundant. 
+
+
+
+
+5.
