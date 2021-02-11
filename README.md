@@ -31,3 +31,20 @@ improve organization but also reduce issues that may occur later in research suc
 
 
 5.
+Git is version control system that tracks changes made to files and allows the user to switch back to a previous version if they wish to do so with ease.
+It also allows changes from multiple people to be merged together. GitHub is an online platform that provides several services based on the Git software.
+It allows for a group of people to collaborate on a project from anywhere. 
+
+6.
+Github is extremely useful for staying organized because it allows integration with R. Without using github it would be difficult to keep work organized and 
+readable***
+
+7.
+I am completely new to github and do not know how to use the majority of its functions. To reduce the challenge, I will practice using the different commands and 
+functions to familiarize myself with to software. With time, I will be to minimize and overcome these challenges. 
+
+8.
+Stage: Tells git you want to add changes.
+Commit: Tells git you are sure you want to add the changes made.
+Pull: Gets any new changes made by collaborators on other computers.
+Push: Puts any changes on the github repo.
