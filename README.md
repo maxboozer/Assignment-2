@@ -36,8 +36,7 @@ It also allows changes from multiple people to be merged together. GitHub is an 
 It allows for a group of people to collaborate on a project from anywhere. 
 
 6.
-Github is extremely useful for staying organized because it allows integration with R. Without using github it would be difficult to keep work organized and 
-readable***
+Github is extremely useful for staying organized because it allows integration with R. Also, without using github it would be difficult to find changes that were made by you on another device or by your collaborators.
 
 7.
 I am completely new to github and do not know how to use the majority of its functions. To reduce the challenge, I will practice using the different commands and 
